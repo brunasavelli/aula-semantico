@@ -25,3 +25,10 @@ site-title{
     margin-bottom: 10px;
     font-size: 2em;
 }
+
+.main-nav .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
