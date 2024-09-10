@@ -142,3 +142,26 @@ site-title{
     padding: 10px;
     margin-top: 20px;
 }
+
+.concat-info {
+    margin-bottom: 10px;
+}
+
+.author-name, .author-email {
+    margin-bottom: 5px;
+}
+
+.email-link {
+    color: #1e90ff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.email-link:hover {
+    color: #fff;
+}
+
+.footer-copy {
+    font-size: 0.9em;
+    color: #ccc;
+}
